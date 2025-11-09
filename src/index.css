@@ -10,6 +10,5 @@
     src: url(../public/Fonts/Lausanne-500.woff2);
 }
 body {
- background-color: #111;
- }
-
+    background-color: black;
+}
